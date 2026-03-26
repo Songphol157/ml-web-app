@@ -1,0 +1,11 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+scikit-survival
+lifelines
+xgboost
+statsmodels
+python-docx
+joblib
