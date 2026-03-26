@@ -4,3 +4,4 @@ numpy
 joblib
 scikit-learn
 scikit-survival
+gunicorn
